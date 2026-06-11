@@ -126,5 +126,5 @@ task-manager/
 
 ## Support
 Contact: mert.sentuerk@iu-study.org  
-Repository: https://github.com/Cahara77/Task-Manager
+Repository: (https://github.com/MertSentuerk/Task-Manager)
 ```
